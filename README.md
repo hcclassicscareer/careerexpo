@@ -5,7 +5,7 @@
   
 
 ## Holy Cross Classics Career Expo
-![image](https://hcclassics.github.com/careerexpo/images/Classics-career-expo-(1)-1.jpg)
+![image](https://user-images.githubusercontent.com/32398864/47621547-d1569d00-dacf-11e8-88eb-c08b03a96d8e.jpg)
 
 You can use the [editor on GitHub](https://github.com/hcclassicscareer/careerexpo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
