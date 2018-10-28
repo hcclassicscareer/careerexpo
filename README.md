@@ -8,15 +8,18 @@
 # February 23, 2019
 ![image](https://user-images.githubusercontent.com/32398864/47621547-d1569d00-dacf-11e8-88eb-c08b03a96d8e.jpg)
 
-## This event is a collaboration between the Holy Cross Classics department and many other offices on campus. We would like to invite you back to meet and give your insights to current and prospective Holy Cross Classics majors. This one-day event on February 23, 2019 will run from 11AM to 5PM and include networking opportunities, panels, and a tour of current student-led projects.
+### This event is a collaboration between the Holy Cross Classics department and many other offices on campus. We would like to invite you back to meet and give your insights to current and prospective Holy Cross Classics majors. This one-day event on February 23, 2019 will run from 11AM to 5PM and include networking opportunities, panels, and a tour of current student-led projects.
 
 ### Panelists
+
 **Law**
 - Christine Bannan
 - Christine Wechsler
+
 **Medicine**
 - Patrick Brown
 - Lexie Risley
+
 **Business**
 - Caroline Corrigan O'Hare
 - David Garrity
@@ -24,6 +27,7 @@
 - Colleen Donnelly
 - Arthurt Crozier
 - Laura Cote
+
 **Education**
 - Maureen Lamb
 - Paul Moynahan
